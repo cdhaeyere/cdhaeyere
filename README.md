@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**cdhaeyere/cdhaeyere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+┌──(nitroc1701㉿root)-[~/out]
+└─$ java -jar ReadMe.jar
+```
+```java
+[ReadMe] Hello, I'm Corentin ( Nitroc ), a web developper.
+[ReadMe] I'm studying IT management at HE Vinci.
+[ReadMe] I'm based in Belgium.
+[ReadMe] I'm currently learning VueJs; NuxtJs.
+[ReadMe] I know these languages :
+ - Java
+ - JavaScript
+ - Python
+ - HTML/CSS
+ - PHP
+[ReadMe] If you want too see some projects I've done, taje a tour of my github.
+```
